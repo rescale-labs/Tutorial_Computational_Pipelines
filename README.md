@@ -9,7 +9,7 @@ that interact in complex ways. As a consequence, scientific workflow management 
 increasingly employed to effectively orchestrate these steps.
 
 In this tutorial we demonstrate how the scientific workflow management system 
-[Nextflow](https://www.nextflow.io/) can be used to orchestrate [Abaqus](https://www.3ds.com/products/simulia/abaqus) jobs on Rescale. 
+[Nextflow](https://www.nextflow.io/) can be used to orchestrate [Abaqus](https://www.3ds.com/products/simulia/abaqus) jobs on [Rescale](https://rescale.com). 
 A very similar approach can be used to orchestrate other software or combinations of different software. 
 
 The hardware the individual Abaqus jobs run on is not chosen by the user, but selected automatically 
